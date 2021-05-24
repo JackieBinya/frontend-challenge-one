@@ -1,3 +1,14 @@
 import React from 'react';
+import './App.scss';
 
-export const App = () => <h1>Todos App</h1>;
+export const App = () => (
+  <>
+    <h1>Todos DND</h1>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    </p>
+  </>
+);
