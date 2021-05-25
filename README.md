@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Todos Drag and Drop app
+_Notes:_
+- This app is live and hosted in this url: https://yiya.vercel.app/
+- Please view this app on Desktop view on the Chrome browser for the best user experience
+
+## Tech stack
+- [Reactsjs](https://reactjs.org/): A Javascript framework used for building highly performant frontend applications.
+- [Supabase](https://supabase.io/): A Postgres SQL Database on the cloud.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
